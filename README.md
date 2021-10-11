@@ -1,7 +1,5 @@
 # TeleBot - Telegram UserBot
 
-
-
 # Repository Archieved.
 Please head on to [TeamUltroid](https://github.com/TeamUltroid) and use [Ultroid](https://github.com/TeamUltroid/Ultroid) instead.
 
